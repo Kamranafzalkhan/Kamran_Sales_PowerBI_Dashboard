@@ -1,0 +1,51 @@
+Order ID,Amount,Profit,Quantity,Category,Sub Category,Payment Mode
+B-15306,987.71,103.72,4,Groceries,Fruits,Debit Card
+B-73691,13695.64,3128.58,2,Groceries,Fruits,Net Banking
+B-72468,1081.05,101.32,9,Books,Fiction,Net Banking
+B-38631,14462.38,2751.68,7,Electronics,Laptops,Debit Card
+B-46941,5924.72,1326.31,3,Books,Academic,UPI
+B-91050,3531.85,852.74,6,Home & Kitchen,Cookware,Credit Card
+B-88892,2385.97,523.72,10,Electronics,Accessories,Cash
+B-22945,10956.45,2680.2,7,Electronics,Accessories,Credit Card
+B-53279,16673.39,2896.23,6,Toys,Indoor,Net Banking
+B-23199,1856.33,338.32,5,Clothing,Kids,Credit Card
+B-51444,7912.46,1113.14,6,Clothing,Men,Debit Card
+B-36801,4585.39,474.11,2,Home & Kitchen,Cookware,Net Banking
+B-68024,10915.73,1080.24,8,Groceries,Fruits,UPI
+B-18163,13919.16,1307.33,6,Home & Kitchen,Decor,Credit Card
+B-22225,16198.39,2109.56,2,Clothing,Men,Debit Card
+B-97576,6636.22,1201.74,7,Toys,Educational,UPI
+B-74694,3222.79,641.33,9,Clothing,Women,Cash
+B-52625,8854.46,1476.1,6,Groceries,Snacks,Debit Card
+B-84384,10123.56,2036.42,2,Clothing,Kids,Debit Card
+B-28677,15945.55,2143.59,2,Groceries,Fruits,UPI
+B-21955,19924.37,3104.67,9,Books,Academic,Credit Card
+B-76576,2733.76,620.45,5,Groceries,Snacks,Cash
+B-49511,8977.92,1263.6,5,Electronics,Cameras,Net Banking
+B-26359,18296.24,4100.26,5,Clothing,Kids,Net Banking
+B-80816,3480.37,704.78,9,Toys,Outdoor,Net Banking
+B-81726,10027.81,725.75,6,Electronics,Cameras,Cash
+B-68325,5197.0,849.56,2,Clothing,Men,Credit Card
+B-60449,16412.45,4030.85,9,Groceries,Vegetables,Debit Card
+B-41733,9768.01,1562.5,5,Clothing,Kids,Net Banking
+B-34823,19305.08,4551.8,4,Toys,Indoor,Cash
+B-90317,13172.62,1812.82,9,Books,Academic,UPI
+B-19055,4881.6,574.16,10,Electronics,Laptops,Net Banking
+B-27068,4794.24,307.78,1,Clothing,Kids,Debit Card
+B-20518,17262.89,1107.79,4,Electronics,Mobile Phones,Cash
+B-61287,4677.62,357.66,10,Groceries,Vegetables,Net Banking
+B-78392,15800.08,3341.71,4,Books,Fiction,Credit Card
+B-99060,7408.8,979.59,1,Electronics,Accessories,Credit Card
+B-85981,14700.16,3088.78,2,Electronics,Accessories,Debit Card
+B-74573,10957.57,855.09,3,Clothing,Men,Cash
+B-52509,17552.48,1142.26,9,Books,Fiction,Credit Card
+B-73759,19395.43,4563.23,4,Electronics,Mobile Phones,Debit Card
+B-53944,9886.49,2204.0,1,Books,Non-Fiction,Debit Card
+B-12124,19713.52,2031.29,8,Books,Fiction,Cash
+B-38896,19167.69,4774.38,9,Books,Academic,UPI
+B-53586,6285.8,1532.11,10,Clothing,Men,Net Banking
+B-23186,1614.72,269.39,9,Electronics,Cameras,Net Banking
+B-38675,19235.19,1269.95,3,Clothing,Men,Credit Card
+B-93126,13666.64,1326.22,2,Toys,Outdoor,Net Banking
+B-99206,12093.12,2102.71,7,Clothing,Kids,Net Banking
+B-26311,6669.21,681.28,6,Toys,Educational,Debit Card
